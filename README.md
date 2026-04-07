@@ -1,2 +1,7 @@
-# Business-Break-even-Scalability-Analysis
-This project uses Python, Pandas, and NumPy to simulate and analyze the financial trajectory of a business over 10,000 days. It focuses on a "Startup Turnaround" scenario—modeling how a business manages high initial fixed costs and debt through strategic sales growth and overhead reduction to reach a multi-million dollar profitability milestone.
+Financial Simulation: Modeled daily revenue and variable costs using normal distributions to simulate realistic, fluctuating market conditions.
+
+Scalability Logic: Implemented a growth trajectory where sales volume increases over time, demonstrating the power of scaling a business to cover constant fixed costs.
+
+Data Integrity & Troubleshooting: Documented the process of resolving calculation logic errors to ensure accurate cumulative profit tracking from Day 0.
+
+Break-Even Visualization: Created detailed Matplotlib and Seaborn visualizations to pinpoint the exact moment the business transitioned from loss to profit.
